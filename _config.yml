@@ -1,0 +1,28 @@
+name: Keenan Gibbs
+favicon: null
+layout_spectrum: 0.7242547951173037
+typography_spectrum: 0.18930093524977565
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2906500962562859
+  lightness: 0.08953604265116155
+  saturation: 0.9405905499588698
+  rhythmicContrast: 0.2848678226582706
+purpose: []
